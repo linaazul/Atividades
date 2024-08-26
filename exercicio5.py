@@ -1,3 +1,4 @@
+# Kata
 # Write a function that doubles every second integer in a list, starting from the left.
 # Example:
 # For input array/list:
