@@ -49,7 +49,7 @@ for pergunta in perguntas:
         print(f"Dê uma resposta válida, {resposta_int} está fora das opções! (っ °Д °;)っ")
     except ValueError:
         print("NÃOO!!! Você sabe que tem que digitar NÚMEROS NÉ! .·´¯`(>▂<)´¯`·. ")
-    except:
+    except Exception:
         print("Algo deu errado aqui... ops, hihihi ≧ ﹏ ≦")
 
 if contador_de_acertos == 0:
