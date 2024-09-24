@@ -1,0 +1,3 @@
+# Filtrar e converter para maiúsculas
+# Dada uma lista de strings, crie uma list comprehension que filtra apenas as strings que começam com a letra "a" e as converte para maiúsculas.
+...
