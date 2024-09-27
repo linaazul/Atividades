@@ -13,4 +13,5 @@ Atividades, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25 geradas pelo chat gpt para co
 
 Atividades 26, 27, 28, 29 e 30 geradas pelo chat gpt para compreender mais o uso de dictionary comprehention.
 
+Atividade 31 desafio de uma entrevista de emprego
 ...
