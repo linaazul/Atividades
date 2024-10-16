@@ -15,5 +15,5 @@ Atividades 26, 27, 28, 29 e 30: geradas pelo chat gpt para compreender mais o us
 
 Atividade 31: desafio de uma entrevista de emprego
 
-Atividade 32: desafio do site da bairesdev
+Atividade 32 e 33: desafio do site da bairesdev
 ...
