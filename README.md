@@ -20,4 +20,8 @@ Atividade 32 e 33: desafio do site da bairesdev
 Atividade 34: desafio do site kata.
 
 Atividade 35: Atividade do curso da udemy.
+
+Atividade 36: Atividade sobre datas do curso da udemy.
+
+
 ...
