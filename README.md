@@ -1,27 +1,55 @@
-# Atividades
-Algumas atividades de programação.
-da primeira até a quarta sao atividades sobre função e podem ser encontradas no site do python brasil.
+# Repositório de Exercícios de Python
 
-Atividade 5 e 7: são desafios feitos no site da kata.
+Este repositório contém uma coleção de exercícios e desafios de programação em Python, organizados por temas e níveis de dificuldade. Os exercícios foram desenvolvidos para praticar diversos conceitos da linguagem Python, desde funções básicas até tópicos mais avançados como closures, comprehensions e manipulação de dados.
 
-Atividade 6: vinda do curso de python da udemy.
+## 📂 Estrutura do Repositório
 
-Atividade 8, 9, 10, 11, 12, 13, 14, 15: geradas pelo chat gpt para compreender mais sobre closure.
+Os arquivos estão numerados sequencialmente (`exercicio01.py` a `exercicio36.py`), cada um correspondendo a um exercício ou desafio específico. Abaixo está a categorização dos exercícios:
 
+### 📌 Exercícios Básicos sobre Funções
+- **exercicio01.py** a **exercicio04.py**: Exercícios sobre funções, baseados no site Python Brasil.
 
-Atividades, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25: geradas pelo chat gpt para compreender mais sobre list comprehension, filtragem e mapeamento.
+### 🎯 Desafios de Programação
+- **exercicio05.py** e **exercicio07.py**: Desafios do site Kata.
+- **exercicio06.py**: Exercício do curso de Python da Udemy.
+- **exercicio31.py**: Desafio de entrevista de emprego.
+- **exercicio32.py** e **exercicio33.py**: Desafios do site BairesDev.
+- **exercicio34.py**: Desafio do site Kata.
 
-Atividades 26, 27, 28, 29 e 30: geradas pelo chat gpt para compreender mais o uso de dictionary comprehention.
+### 🔄 Exercícios sobre Closures
+- **exercicio08.py** a **exercicio15.py**: Exercícios gerados para compreender o conceito de closures.
 
-Atividade 31: desafio de uma entrevista de emprego
+### 📊 List Comprehensions e Manipulação de Dados
+- **exercicio16.py** a **exercicio25.py**: Exercícios focados em list comprehensions, filtragem e mapeamento.
 
-Atividade 32 e 33: desafio do site da bairesdev
+### 📚 Dictionary Comprehensions
+- **exercicio26.py** a **exercicio30.py**: Exercícios sobre dictionary comprehensions.
 
-Atividade 34: desafio do site kata.
+### 🗓️ Exercícios sobre Datas e Tarefas
+- **exercicio35.py**: Lista de tarefas (curso Udemy).
+- **exercicio36.py**: Exercício sobre manipulação de datas (curso Udemy).
 
-Atividade 35: Atividade do curso da udemy.
+## 🛠️ Como Utilizar
+1. **Clone o repositório:**
+   ```bash
+   git clone git@github.com:linaazul/Atividades.git
+   ```
+2. **Navegue até o diretório do exercício:**
+   ```bash
+   cd Atividades
+   ```
+3. **Execute o arquivo Python desejado (substitua XX pelo número do exercício):**
+   ```bash
+   python exercicioXX.py
+   ```
 
-Atividade 36: Atividade sobre datas do curso da udemy.
+## 📌 Dicas:
+- Para exercícios com entrada/saída interativa, execute no terminal diretamente.
 
+- Alguns desafios podem requerer bibliotecas externas (ex: datetime).
 
-...
+## 📧 Contato
+
+Envie dúvidas ou sugestões abrindo uma issue, por email ou Discord:
+**Email:** ana.carolina.gui.ramos@gmail.com 
+**Discord:** linaazul
