@@ -51,5 +51,6 @@ Os arquivos estão numerados sequencialmente (`exercicio01.py` a `exercicio36.py
 ## 📧 Contato
 
 Envie dúvidas ou sugestões abrindo uma issue, por email ou Discord:
+
 **Email:** ana.carolina.gui.ramos@gmail.com 
 **Discord:** linaazul
